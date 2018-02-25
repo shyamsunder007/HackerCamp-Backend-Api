@@ -1,0 +1,4 @@
+#Note Before Starting
+
+1)WE need to have a TESTDB named DATABASE
+2)WE need to creata the following tables as show in the attached figure 'MySQLInfo.png' 
